@@ -1,8 +1,9 @@
 # Stellar Document Sharing dApp
+<img width="1919" height="1026" alt="Screenshot 2026-04-10 125111" src="https://github.com/user-attachments/assets/de3fb75e-4f22-4f2e-882f-13a828ca7513" />
 
-![Placeholder Hero 1](./placeholder-hero-1.svg)
+<h1>Stellar Expert Dashboard</h1>
+<img width="1919" height="1026" alt="Screenshot 2026-04-10 125148" src="https://github.com/user-attachments/assets/4d568758-f0ca-405c-a4f6-5077e1a7f82e" />
 
-![Placeholder Hero 2](./placeholder-hero-2.svg)
 
 ## Overview
 
