@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+  <rect width="1200" height="360" fill="#111827" rx="24"/>
+  <rect x="80" y="80" width="1040" height="200" fill="#1f2937" rx="16"/>
+  <text x="600" y="190" fill="#9ca3af" font-family="Segoe UI, sans-serif" font-size="42" text-anchor="middle">Project screenshot placeholder</text>
+  <text x="600" y="250" fill="#6b7280" font-family="Segoe UI, sans-serif" font-size="24" text-anchor="middle">Replace with app preview or design graphic</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+  <rect width="1200" height="360" fill="#0f172a" rx="24"/>
+  <circle cx="300" cy="180" r="100" fill="#2563eb" opacity="0.85"/>
+  <circle cx="900" cy="180" r="100" fill="#f59e0b" opacity="0.85"/>
+  <text x="600" y="190" fill="#f8fafc" font-family="Segoe UI, sans-serif" font-size="42" text-anchor="middle">Placeholder visual 2</text>
+  <text x="600" y="250" fill="#cbd5e1" font-family="Segoe UI, sans-serif" font-size="24" text-anchor="middle">Use this for architecture or feature highlights</text>
+</svg>
